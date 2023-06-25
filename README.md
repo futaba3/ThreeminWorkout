@@ -1,2 +1,3 @@
 # ThreeminWorkout
-SwiftUIでつくったよ
+初めてSwftUIに触れました
+振動フィードバックと音声読み上げを使ってみました
